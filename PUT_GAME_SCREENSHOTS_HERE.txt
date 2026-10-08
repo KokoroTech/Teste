@@ -1,0 +1,5 @@
+Crie uma pasta para cada jogo e coloque screenshots reais dentro.
+Exemplo:
+reference_images/Blox Fruits/1.jpg
+reference_images/Blox Fruits/2.jpg
+reference_images/DOORS/1.jpg
